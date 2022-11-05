@@ -1,0 +1,20 @@
+hr      {color: sienna;}
+
+p       {margin-left: 20pt;}
+
+body    {background-image:url("img/fundolegal.jpg") ;}
+
+a:link, a:visited 
+        {
+        background-color: #36f43f;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        }
+  
+a:hover, a:active 
+        {
+        background-color: rgb(98, 0, 255);
+        }
